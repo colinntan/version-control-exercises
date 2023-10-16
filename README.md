@@ -1,3 +1,3 @@
 # version-control-exercises
 
-*Just experimenting* 
+_Just experimenting_
